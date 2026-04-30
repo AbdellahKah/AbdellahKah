@@ -72,7 +72,7 @@ Engineered a scalable desktop application and backend APIs in **C#** to improve 
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellah-kahlaoui-860290395)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahabdu1808)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahlaouiabdellah6@gmail.com)
 
 `Check out my repositories below to explore my work in mathematics, optimization, and quantitative analysis ⬇️`
