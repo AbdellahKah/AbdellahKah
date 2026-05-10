@@ -2,22 +2,45 @@
 
 # **Abdellah Kahlaoui — Applied Mathematics & Quantitative Analysis**
 
-`Applied Mathematician and Quantitative Analyst with a dual foundation in mathematical modeling and software engineering. I specialize in algorithmic optimization, stochastic analysis, and Deep Reinforcement Learning — bridging rigorous theory with production-level code.`
+Applied Mathematician and Quantitative Analyst with a dual foundation in mathematical modeling and software engineering. I specialize in algorithmic optimization, stochastic analysis, and Deep Reinforcement Learning — bridging rigorous theory with production-level code.
+
+---
+
+## 👋 About Me
+
+- 🇲🇦 Based in Morocco
+- 🎓 Studying Applied Mathematics at FST Settat
+- 🔬 Currently researching Deep RL approaches to combinatorial optimization
+- 💼 Open to quantitative research, data science, and ML engineering opportunities
+- ⚡ Passionate about where mathematical rigor meets real-world problem solving
 
 ---
 
 ## 🔥 Tech Stack
 
+**Languages & Core Tools**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+**Machine Learning & Scientific Computing**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
+
+**Data & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -26,9 +49,11 @@
 ### 🤖 Deep Reinforcement Learning for the Traveling Salesman Problem *(Ongoing)*
 > **FST Settat — March 2026 – Present**
 
-Conducting an algorithmic study to solve the **Traveling Salesman Problem (TSP)** using Deep Reinforcement Learning. Modeling complex combinatorial optimization constraints and developing automated solutions in Python, with comprehensive technical documentation.
+Conducting an algorithmic study to solve the **Traveling Salesman Problem (TSP)** using Deep Reinforcement Learning. Exploring attention-based policy networks (Transformer encoder-decoder architectures) to learn construction heuristics for combinatorial optimization. Modeling complex constraints and developing automated solutions in Python with comprehensive technical documentation.
 
-🛠️ *Research project — FST Settat*
+🛠️ Python · PyTorch · Gymnasium · LaTeX
+
+🔗 [View Repository](https://github.com/AbdellahKah/Deep-RL-TSP) *(work in progress)*
 
 ---
 
@@ -37,7 +62,9 @@ Conducting an algorithmic study to solve the **Traveling Salesman Problem (TSP)*
 
 Developed a comprehensive **Monte Carlo simulation** model to analyze complex probability distributions. Leveraged Python and NumPy for high-performance vectorized scientific computing. Final analytical report typeset in LaTeX.
 
-🛠️ *Academic project — FST Settat*
+🛠️ Python · NumPy · Matplotlib · LaTeX
+
+🔗 [View Repository](https://github.com/AbdellahKah/Monte-Carlo-Simulation)
 
 ---
 
@@ -46,7 +73,18 @@ Developed a comprehensive **Monte Carlo simulation** model to analyze complex pr
 
 Engineered a scalable desktop application and backend APIs in **C#** to improve data accessibility for technical teams. Streamlined ETL pipelines between SQL databases and **Power BI**, reducing reporting latency.
 
-🛠️ *Internship — Safran, Temara*
+🛠️ C# · SQL · Power BI · ETL
+
+🔗 [View Repository](https://github.com/AbdellahKah/Safran-Data-Platform)
+
+---
+
+## 📚 Currently Learning
+
+- 📐 Stochastic Calculus & Itô Processes
+- 💹 Options Pricing & Financial Derivatives
+- 🧠 Multi-Agent Reinforcement Learning
+- 📊 Advanced Time Series Analysis
 
 ---
 
@@ -67,6 +105,7 @@ Engineered a scalable desktop application and backend APIs in **C#** to improve 
 
 ![Abdellah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdellahKah&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellahKah&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdellahKah&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -75,4 +114,6 @@ Engineered a scalable desktop application and backend APIs in **C#** to improve 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahabdu1808)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahlaouiabdellah6@gmail.com)
 
-`Check out my repositories below to explore my work in mathematics, optimization, and quantitative analysis ⬇️`
+---
+
+*Check out my repositories below to explore my work in mathematics, optimization, and quantitative analysis ⬇️*
