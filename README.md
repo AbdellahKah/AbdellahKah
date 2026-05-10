@@ -64,7 +64,7 @@ Developed a comprehensive **Monte Carlo simulation** model to analyze complex pr
 
 🛠️ Python · NumPy · Matplotlib · LaTeX
 
-🔗 [View Repository](https//github.com/AbdellahKah/monte-carlo-statistical-modeling)
+🔗 [View Repository](https://github.com/AbdellahKah/monte-carlo-statistical-modeling)
 
 ---
 
