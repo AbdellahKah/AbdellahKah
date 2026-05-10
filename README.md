@@ -53,7 +53,7 @@ Conducting an algorithmic study to solve the **Traveling Salesman Problem (TSP)*
 
 🛠️ Python · PyTorch · Gymnasium · LaTeX
 
-🔗 [View Repository](https://github.com/AbdellahKah/Deep-RL-TSP) *(work in progress)*
+🔗 [View Repository](N/A) *(work in progress)*
 
 ---
 
@@ -64,7 +64,7 @@ Developed a comprehensive **Monte Carlo simulation** model to analyze complex pr
 
 🛠️ Python · NumPy · Matplotlib · LaTeX
 
-🔗 [View Repository](https://github.com/AbdellahKah/Monte-Carlo-Simulation)
+🔗 [View Repository](https//github.com/AbdellahKah/monte-carlo-statistical-modeling)
 
 ---
 
@@ -75,7 +75,6 @@ Engineered a scalable desktop application and backend APIs in **C#** to improve 
 
 🛠️ C# · SQL · Power BI · ETL
 
-🔗 [View Repository](https://github.com/AbdellahKah/Safran-Data-Platform)
 
 ---
 
