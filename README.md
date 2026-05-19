@@ -86,7 +86,7 @@ Full-stack pharmacy inventory management platform built in 48 hours. Provides re
 
 🛠️ Python · SQL · Web (Django/Flask)
 
-🔗 [View Repository](https://github.com/AbdellahKah/PharmaManager)
+🔗 [View Repository](https://github.com/AbdellahKah/pharma-manager)
 
 ---
 
