@@ -8,7 +8,7 @@ Applied Mathematician and Quantitative Analyst with a dual foundation in mathema
 
 ## 👋 About Me
 
-- 🇲🇦 Based in Morocco
+- 🇲🇦 Based in Morocco — open to remote quant, ML, and data engineering roles
 - 🎓 Studying Applied Mathematics at FST Settat
 - 🔬 Currently researching Deep RL approaches to combinatorial optimization
 - 💼 Open to quantitative research, data science, and ML engineering opportunities
@@ -53,7 +53,18 @@ Conducting an algorithmic study to solve the **Traveling Salesman Problem (TSP)*
 
 🛠️ Python · PyTorch · Gymnasium · LaTeX
 
-🔗 [View Repository](N/A) *(work in progress)*
+*(Repository coming soon)*
+
+---
+
+### ⚡ Neural Volatility Calibrator
+> **Personal Project — 2025**
+
+Neural network calibration engine for **Heston and SABR** stochastic volatility models. Achieves ~1000x speedup over classical numerical optimizers (Levenberg-Marquardt, differential evolution) while maintaining calibration accuracy. Designed for real-time implied volatility surface fitting.
+
+🛠️ Python · PyTorch · NumPy · SciPy
+
+🔗 [View Repository](https://github.com/AbdellahKah/neural-vol-calibrator)
 
 ---
 
@@ -68,13 +79,23 @@ Developed a comprehensive **Monte Carlo simulation** model to analyze complex pr
 
 ---
 
+### 💊 PharmaManager
+> **Personal Project — 2025**
+
+Full-stack pharmacy inventory management platform built in 48 hours. Provides real-time stock tracking, automatic low-stock and expiry alerts, and a sales analytics dashboard. Deployed as a web application accessible from any device without installation.
+
+🛠️ Python · SQL · Web (Django/Flask)
+
+🔗 [View Repository](https://github.com/AbdellahKah/PharmaManager)
+
+---
+
 ### 🏭 Data Analytics Platform — Safran Temara *(Internship)*
 > **March 2024 – September 2024**
 
 Engineered a scalable desktop application and backend APIs in **C#** to improve data accessibility for technical teams. Streamlined ETL pipelines between SQL databases and **Power BI**, reducing reporting latency.
 
 🛠️ C# · SQL · Power BI · ETL
-
 
 ---
 
@@ -112,7 +133,3 @@ Engineered a scalable desktop application and backend APIs in **C#** to improve 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahabdu1808)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kahlaouiabdellah6@gmail.com)
-
----
-
-*Check out my repositories below to explore my work in mathematics, optimization, and quantitative analysis ⬇️*
