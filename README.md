@@ -5,7 +5,7 @@
 Applied Mathematician and Quantitative Analyst with a dual foundation in mathematical modeling and software engineering. I specialize in algorithmic optimization, stochastic analysis, and Deep Reinforcement Learning — bridging rigorous theory with production-level code.
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=AbdellahKah&color=blueviolet&style=flat-square&label=Profile+views)
 ## 👋 About Me
 
 - 🇲🇦 Based in Morocco — open to remote quant, ML, and data engineering roles
